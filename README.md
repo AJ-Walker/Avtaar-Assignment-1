@@ -36,3 +36,8 @@ You can display it as a json, or strings, or on console, or a website page based
    ```
    
 2. Open a browser and go to **[localhost:5000](http://localhost:5000/)**
+
+### Output
+
+![Output](https://github.com/AJ-Walker/Avtaar-Assignment-1/blob/main/output.PNG)
+
